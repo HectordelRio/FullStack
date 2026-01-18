@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <title>Gato Swag</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1 id="titulo-principal">Nombre de la Empresa</h1>
+
+    <p class="descripcion">
+        Aqui va una descripcion breve de la empresa.
+    </p>
+
+
+
+    <img src="logo.png" alt="Logo de la empresa" width="370" height="200">
+
+    <p>
+        Visita nuestro sitio favorito:
+        <a href="https://www.roblox.com/es/home" class ="boton"target="_blank">
+            Ir a Roblox
+        </a>
+    </p>
+
+    <h2>Servicios</h2>
+    <ul>
+        <li>Servicio 1</li>
+        <li>Servicio 2</li>
+        <li>Servicio 3</li>
+    </ul>
+
+</body>
+</html>
 
