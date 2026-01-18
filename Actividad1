@@ -34,3 +34,44 @@
 </body>
 </html>
 
+
+
+
+body {
+    font-family: "Comic Sans MS", sans-serif;
+    background-color: #826060;
+    margin: 0;
+    padding: 0;
+    color: white; /* COLOR GENERAL */
+}
+
+#titulo-principal {
+    color: rgb(220, 114, 52);
+    text-align: center;
+}
+
+.descripcion {
+    color: #222;
+    text-align: center;
+}
+
+a {
+    color: yellow;
+}
+
+.boton {
+    display: inline-block;
+    background-color: navy;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+
+.boton:hover {
+    background-color:dark orange;
+    
+
+}
+
